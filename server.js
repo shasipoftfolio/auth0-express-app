@@ -38,7 +38,7 @@ const config = {
   //   }
   // }
   clientID: process.env.CLIENT_ID,
-   clientSecret: process.env.SECRET,
+   clientSecret: 'goCLJYS2peKcNYYLbeAXgJUsNizrTauM_SDvdUrcPDyElK8mfv4N8NKPRGXmV4ZX',
    authorizationParams: {
  response_type: 'code',
    
